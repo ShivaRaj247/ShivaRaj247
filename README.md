@@ -6,7 +6,7 @@
 </head>
 <body>
  <center>Time Table</center>
-  <table  bordercolor="red"  border="2" > 
+  <table  bordercolor="red"> 
     <tr>
        <th colspan="7"><marquee scrollmount="7">Time Table</marquee></th>
     </tr>
